@@ -4,7 +4,7 @@ This is a cross-chain bounty DApp that allows users to send tokens as bounty fro
 
 ## **Table of Contents**
 
-- [Protocol Explorer Demo with Axelar](#protocol-explorer-demo-with-axelar)
+- [Protocol Explorer Demo with Axelar](https://github.com/Olanetsoft/protocol-explorer-demo-with-axelar#protocol-explorer-demo-with-axelar)
   - [**Table of Contents**](#table-of-contents)
   - [**Features**](#features)
   - [**Installation**](#installation)
@@ -27,13 +27,13 @@ To install and run this application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/Olanetsoft/protocol-explorer-demo-with-axelar.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd 
+   cd protocol-explorer-demo-with-axelar
    ```
 
 3. Install the dependencies:
